@@ -1,4 +1,4 @@
-# testovoye-zadaniye
+# Pop up in Vue.js
 
 ## Project setup
 ```
